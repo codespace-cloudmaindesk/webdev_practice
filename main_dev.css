@@ -81,11 +81,7 @@ span{
   margin-left: 25px;
   background: var(--hover-color);
   border-radius: 3px;
-<<<<<<< HEAD
   color: var(--second-bg-color);
   display: none;
 
-=======
-  color: var(--second-bg-color)
->>>>>>> 8c6bf019585e4f703b9388cc343a7c1c931354a0
 }
